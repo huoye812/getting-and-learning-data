@@ -3,11 +3,11 @@
 
 The R code does the following:    
 1. Reads all data from test and training folder, including:   
-  * features.txt    
-  * activity_labels.txt    
-  * x.txt (train and test)    
-  * y.txt (train and test)   
-  * subject.txt (train and test)   
+      * features.txt    
+      * activity_labels.txt    
+      * x.txt (train and test)    
+      * y.txt (train and test)   
+      * subject.txt (train and test)   
 2. Merges the training and the test sets to create one data set.   
 3. Extracts only the measurements on the mean and standard deviation for each measurement.    
 4. Uses descriptive activity names to name the activities in the data set.  
